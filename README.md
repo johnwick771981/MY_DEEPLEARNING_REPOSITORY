@@ -7,4 +7,4 @@ Few Python files which include
  5. ANN model - 2 parts
  6. CNN model
  7. A PROJECT of Classification of Cats and dogs with an accuracy of above 96.7%
- 8. 
+ 8. Time series and Forecasting model
